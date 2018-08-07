@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Resume Builder</title>
+</head>
+<body>
+	
+	<form action="Resume" method="get">
+	
+		Photo : <input type="file" name="Photo"> </br></br>
+		First Name : <input type="text" name="FirstName"> </br></br>
+		Last Name : <input type="text" name="LastName"> </br></br>
+		Gender : 
+				<input type="radio" name="Gender">Male 
+				<input type="radio" name="Gender">Female
+		</br></br>	
+		Highest Qualification : <select>
+				<option value="UnderGraduate">Under Graduate</option>
+				<option value="PostGraduate">Under Graduate</option>
+				<option value="Diploma">Under Graduate</option>
+				<option value="PHD">Under Graduate</option>
+			</select>
+		</br></br>
+		Date Of Birth : <input type="date"> </br></br>
+		Hobbies : <input type> </br></br>
+		Address : <textarea rows="4" cols="50"></textarea> </br></br>
+		Skills : 
+				<input type="checkbox" value="Java" name="java">Java
+				<input type="checkbox" value="CPP" name="cpp">C++
+				<input type="checkbox" value="C" name="c">C
+				<input type="checkbox" value=".Net" name=".net">.Net
+				<input type="checkbox" value="Oracle" name="oracle">Oracle Database
+				<input type="checkbox" value="Python" name="python">Python
+		</br></br>
+		Email : <input type="email" placeholder="Enter your email"> </br></br>
+		Webiste(if any) : <input type="url"> </br> </br>
+		Contact : <input type="number"> </br></br>
+		Summary : <textarea rows="4" cols="50"></textarea> </br></br>
+		Clear <input type="reset"> 
+		Submit <input type="submit">
+	
+	</form>
+	
+</body>
+</html>

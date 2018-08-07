@@ -1,0 +1,11 @@
+
+Aug 07, 2018 14:19:19.56 NEW SESSION
+Aug 07, 2018 14:19:19.56 [1044:7568:0807/141919.558:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Aug 07, 2018 14:20:02.30 Unable to read VR Path Registry from P:\Users\matripat\AppData\Local\openvr\openvrpaths.vrpath
+Aug 07, 2018 14:51:53.51 [10612:2636:0807/145153.510:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Aug 07, 2018 14:52:35.49 Unable to read VR Path Registry from P:\Users\matripat\AppData\Local\openvr\openvrpaths.vrpath
+Aug 07, 2018 16:53:51.62 [9932:8168:0807/165351.627:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Aug 07, 2018 16:54:33.70 Unable to read VR Path Registry from P:\Users\matripat\AppData\Local\openvr\openvrpaths.vrpath
+Aug 07, 2018 17:07:42.41 [9288:7428:0807/170742.396:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Aug 07, 2018 17:08:24.86 [11060:3544:0807/170824.839:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Aug 07, 2018 17:08:51.86 [8908:9300:0807/170851.831:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
